@@ -13,16 +13,17 @@
 ![image](https://github.com/the-osiris/CS-Messaging-Web-App/assets/91742676/3f18553e-29fd-4afe-96b9-642bb19a3a38)
 
 ## Step 6: Run "http://localhost:3000/" if didn't run automatically
-![image](https://github.com/the-osiris/CS-Messaging-Web-App/assets/91742676/5d3cd8b7-02e2-4b7e-88f9-f0b8ca3fb36f) 
-- Login
+![image](https://github.com/user-attachments/assets/528ffc85-653a-4b17-9d66-708fa8795a82)
 
-![image](https://github.com/the-osiris/CS-Messaging-Web-App/assets/91742676/56c651c1-3366-486e-9f61-80af6d528269) 
+
+![image](https://github.com/user-attachments/assets/866c8410-72b0-4f4f-b87f-ee2a57b708ba)
 - Register
 
 
 ## Step 7: Register Agent account and Login
 ## Step 8: Use "http://localhost:3000/request" page to ping for queries
-![image](https://github.com/the-osiris/CS-Messaging-Web-App/assets/91742676/f97ebbf8-cc55-4ff7-ad24-4dad4c175f3e)
+![image](https://github.com/user-attachments/assets/446c764f-9207-4580-a135-46d0ee5484cd)
+
 
 ## Step 9: You will see message of customer on Agent Portal. Click on message to reply.
 ![image](https://github.com/the-osiris/CS-Messaging-Web-App/assets/91742676/0f2332ad-2741-458a-b5b8-8eeaf9535126)
