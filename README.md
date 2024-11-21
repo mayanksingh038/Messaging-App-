@@ -26,10 +26,12 @@
 
 
 ## Step 9: You will see message of customer on Agent Portal. Click on message to reply.
-![image](https://github.com/the-osiris/CS-Messaging-Web-App/assets/91742676/0f2332ad-2741-458a-b5b8-8eeaf9535126)
+![image](https://github.com/user-attachments/assets/f8ab7b29-fbcc-4ab1-b864-61ec92a735ad)
+
 
 ### Click on the message to open chat portal
-![image](https://github.com/the-osiris/CS-Messaging-Web-App/assets/91742676/71c2587f-cd88-465b-8248-1079947d1e04)
+![image](https://github.com/user-attachments/assets/b66d6bfb-2e37-4323-84ef-b0b0c8b99726)
+
 
 ### Reply and also correct your response with the help of ChatGPT (in-buit in the application)
 
