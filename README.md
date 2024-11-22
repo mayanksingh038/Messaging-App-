@@ -1,4 +1,4 @@
-# CS-Messaging-Web-App
+# Messaging App
 ## Step 1: Create a .env file in Backend folder
 ## Step 2: Copy paste the give set of codes
 #### PORT=5000 #Copy it exactly same
