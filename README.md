@@ -1,5 +1,5 @@
 # Messaging App
-## Step 1: Create a .env file in Backend folder
+## Step 1: Create a .env file 
 ## Step 2: Copy paste the give set of codes
 #### PORT=5000 #Copy it exactly same
 #### GPT_KEY="YOUR OPENAI API KEY" #Take help from [this](https://www.howtogeek.com/885918/how-to-get-an-openai-api-key/) link
